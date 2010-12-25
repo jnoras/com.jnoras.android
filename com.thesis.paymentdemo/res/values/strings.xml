@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PaymentActivity!</string>
+    <string name="app_name">SB Credit Card</string>
+<string name="payment_history">Recent Payments/Purchase</string>
+</resources>

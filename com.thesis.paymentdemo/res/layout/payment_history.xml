@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:stretchColumns="1"
+	android:background="#ffcccccc"
+	android:paddingTop="10dp"
+	>
+
+	<TableRow>
+		<TextView android:layout_column="1" android:text="Date"
+			android:padding="3dip" android:gravity="left" 
+			android:textStyle = "bold"
+			android:textColor= "#ff000000"/>
+		<TextView android:text="Place" android:gravity="center"
+			android:padding="3dip" 
+			android:textStyle = "bold" 
+			android:textColor= "#ff000000"/>
+		<TextView android:text="Amount" android:gravity="right"
+			android:padding="3dip" 
+			android:textStyle = "bold" 
+			android:textColor= "#ff000000"/>
+	
+	</TableRow>
+	<View android:layout_height="1dip" android:background="#FF808080" />
+	<TableRow>
+		<TextView android:layout_column="1" android:text="Jan-01-2010"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+		<TextView android:text="ICA Kista" android:gravity="center"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+		<TextView android:text="1000.99kr" android:padding="3dip"
+			android:gravity="right" 
+			android:textColor= "#ff000000"/>
+	</TableRow>
+
+	<TableRow>
+		<TextView 
+		android:layout_column="1" 
+		android:text="Dec-03-2010" 
+		android:gravity ="left"
+		android:padding="3dip" 
+		android:textColor= "#ff000000"/>
+		
+	<TextView 
+		android:text="H&amp;M Kista" 
+		android:gravity="center"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	<TextView android:text="200Kr" android:gravity="right"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	</TableRow>
+	
+	<TableRow>
+		<TextView 
+		android:layout_column="1" 
+		android:text="Dec-12-2010" 
+		android:gravity ="left"
+		android:padding="3dip" 
+		android:textColor= "#ff000000"/>
+		
+	<TextView 
+		android:text="Arlanda Mac D" 
+		android:gravity="center"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+			
+	<TextView android:text="200Kr" android:gravity="right"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	</TableRow>
+	
+	<TableRow>
+		<TextView 
+		android:layout_column="1" 
+		android:text="Dec-20-2010" 
+		android:gravity ="left"
+		android:padding="3dip" 
+		android:textColor= "#ff000000"/>
+		
+	<TextView 
+		android:text="7-Eleven" 
+		android:gravity="center"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	<TextView android:text="10EU" android:gravity="right"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	</TableRow>
+
+		<TableRow>
+		<TextView 
+		android:layout_column="1" 
+		android:text="Dec-23-2010" 
+		android:gravity ="left"
+		android:padding="3dip" 
+		android:textColor= "#ff000000"/>
+		
+	<TextView 
+		android:text="Zara Lindegatan" 
+		android:gravity="center"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	<TextView android:text="900.50Kr" android:gravity="right"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	</TableRow>
+	
+	<TableRow>
+		<TextView 
+		android:layout_column="1" 
+		android:text="Dec-25-2010" 
+		android:gravity ="left"
+		android:padding="3dip" 
+		android:textColor= "#ff000000"/>
+		
+	<TextView 
+		android:text="Shopper World" 
+		android:gravity="center"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	<TextView android:text="455.50Kr" android:gravity="right"
+			android:padding="3dip" 
+			android:textColor= "#ff000000"/>
+	</TableRow>
+	
+	<View android:layout_height="2dip" android:background="#FF909090" />
+
+</TableLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TransportActivity!</string>
+    <string name="app_name">Smart Transport</string>
+<string name="alert_dialog_multiple_choice">Feedback Styles</string>
+<string name="alert_dialog_ok">OK</string>
+<string name="alert_dialog_cancel">Cancel</string>
+</resources>

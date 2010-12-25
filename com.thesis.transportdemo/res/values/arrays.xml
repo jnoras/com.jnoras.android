@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="select_dialog_item">
+<item>Notify before 7 days</item>
+<item>Notify before 3 days</item>
+<item>Get Haptic feedback</item>
+</string-array>
+</resources>
